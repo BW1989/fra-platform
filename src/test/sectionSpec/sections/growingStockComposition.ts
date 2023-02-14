@@ -1582,7 +1582,7 @@ export const growingStockComposition: SectionSpec = {
   migration: {
     label: {
       '2020': { key: 'growingStockComposition.growingStockComposition' },
-      '2025': { key: 'fra.growingStockComposition.updatedGrowingStockComposition' },
+      '2025': { key: 'growingStockComposition.growingStockComposition' },
     },
   },
 }
